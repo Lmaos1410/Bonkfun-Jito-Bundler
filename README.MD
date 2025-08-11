@@ -63,15 +63,6 @@ Use higher values during congestion, or lower for savings.
 
 ---
 
-## 📬 Contact
-
-For MEV bot customization, consulting, or private collaboration:
-**Open an issue** or reach out via Discord/Telegram (on request).
-
-**Telegram**: [@Tru3B1iss](https://t.me/Tru3B1iss)
-**X (Twitter)**: [@XTruebliss](https://x.com/XTruebliss)
-**Discord**: [@trueb1iss](https://discord.com/users/1274339638668038187)
-
 ### 👤 Author
 #### Twitter: [@KEI_NOVAK](https://x.com/kei_4650)   
 #### Telegram: [@KEI_NOVAK](https://t.me/Kei4650)   
